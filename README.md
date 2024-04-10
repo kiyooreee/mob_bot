@@ -1,6 +1,6 @@
 ## Robot Package Template
 
-This is a GitHub template made from 'https://github.com/joshnewans/my_bot'. You can make your own copy by clicking the green "Use this template" button.
+This is a GitHub template made from 'https://github.com/joshnewans/my_bot'. You can make your own copy by clicking the green "Use this template" button. If you use the template as stated above you would have to update all the code and urdf file from scratch. 
 
 It is recommended that you keep the repo/package name the same, but if you do change it, ensure you do a "Find all" using your IDE (or the built-in GitHub IDE by hitting the `.` key) and rename all instances of `my_bot` to whatever your project's name is.
 
